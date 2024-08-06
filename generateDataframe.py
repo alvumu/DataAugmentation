@@ -31,3 +31,4 @@ df.to_csv(ruta_csv_salida, index=False, encoding='utf-8')
 
 # Mostrar un mensaje de confirmación
 print(f"DataFrame exportado a {ruta_csv_salida}")
+
